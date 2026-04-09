@@ -1,4 +1,5 @@
-![Sales Dashboard](Sales Dashboard_page-0001.jpg)
+<img width="1139" height="671" alt="Screenshot (157)" src="Sales Dashboard_page-0001.jpg" />
+<img width="1159" height="699" alt="Screenshot (156)" src="Sales Dashboard_page-0002.jpg" />
 
 📊 Global Retail & Profitability Intelligence Dashboard
 📌 Overview
